@@ -1,0 +1,13 @@
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\bin\Debug\PowerLinks.dll
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\bin\Debug\PowerLinks.pdb
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\bin\Debug\PowerLinks.dll.manifest
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\bin\Debug\PowerLinks.vsto
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\obj\Debug\PowerLinks.csproj.AssemblyReference.cache
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\obj\Debug\PowerLinks.Properties.Resources.resources
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\obj\Debug\PowerLinks.csproj.GenerateResource.cache
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\obj\Debug\PowerLinks.csproj.CoreCompileInputs.cache
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\obj\Debug\PowerLinks.csproj.CopyComplete
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\obj\Debug\PowerLinks.dll
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\obj\Debug\PowerLinks.pdb
+C:\Users\peter\Documents\Projects\PowerLinks\PowerLinks\obj\Debug\PowerLinks.Ribbon1.resources
